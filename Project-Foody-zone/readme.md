@@ -16,7 +16,7 @@ cd server
 npm install
 npm run dev
 ```
-This will run on http://localhost:9000/
+This will run on http://localhost:9000/.
 Then come back to the main directory where app and server directory is stored.
 
 ## To Install and Run the Frontend
