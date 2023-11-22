@@ -26,3 +26,5 @@ npm install
 npm run dev
 ```
 This will run on http://localhost:5173/
+
+After that you can see the website view in http://localhost:5173/ this url.
