@@ -16,6 +16,7 @@ cd server
 npm install
 npm run dev
 ```
+This will run on http://localhost:9000/
 
 ## To Install and Run the Frontend
 ```
@@ -24,3 +25,4 @@ cd app
 npm install
 npm run dev
 ```
+This will run on http://localhost:5173/
