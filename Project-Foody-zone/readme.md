@@ -8,7 +8,7 @@ To run this project in your app you need to install nodeJs first. Then, to clone
 
 git init
 
-git clone https://github.com/example/repository.git
+git clone https://github.com/Shourov98/All_React_Projects/edit/main/Project-Foody-zone
 
 ## To Install and Run Backend
 cd server
